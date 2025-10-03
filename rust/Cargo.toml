@@ -4,8 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [lib]
-name = "hf_transfer"
-crate-type = ["cdylib"]
+crate-type = ["cdylib", "staticlib"]
 
 [dependencies]
 flutter_rust_bridge = "=2.11.1"

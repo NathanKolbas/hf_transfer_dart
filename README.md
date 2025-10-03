@@ -2,7 +2,7 @@
 
 Speed up file transfers with the Hub.
 
-This is based off the official hf_transfer: https://github.com/huggingface/hf_transfer but with bindings for Dart.
+This is based off the official [hf_transfer](https://github.com/huggingface/hf_transfer) but with bindings for Dart.
 
 This library uses the awesome [flutter_rust_bridge](https://pub.dev/packages/flutter_rust_bridge) to make the dart <-> rust bindings easier.
 
